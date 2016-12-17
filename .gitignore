@@ -94,3 +94,4 @@ ENV/
 .idea/
 20news-18828.csv
 __MACOSX/
+.DS_Store
