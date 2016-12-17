@@ -87,3 +87,10 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+/__MACOSX/
+
+*.csv
+.idea/
+20news-18828.csv
+__MACOSX/
