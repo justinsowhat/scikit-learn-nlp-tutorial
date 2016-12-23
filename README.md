@@ -9,10 +9,8 @@ This tutorial is intended for people:
 ### Prerequisites:
 1. Some knowledge of Python
 2. Basic understanding of NLP and ML
-3. Able to install scikit-learn and jupyter on your local environment
 
-
-### Installation:
+### Instructions:
 
 #### 1. Install Anaconda and Jupyter
 To avoid some complicated issues regarding Python dependencies or permission problems
