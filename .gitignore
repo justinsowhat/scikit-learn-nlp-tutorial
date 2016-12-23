@@ -95,3 +95,4 @@ ENV/
 20news-18828.csv
 __MACOSX/
 .DS_Store
+/.ipynb_checkpoints/
