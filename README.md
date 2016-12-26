@@ -43,7 +43,7 @@ conda install scikit-learn
 ##### b. If you are using your existing Python environment
 If you wish to use your existing Python environment instead of Anaconda, you may install
 all the dependencies needed in this tutorial using ``pip``. To make everyone's life somewhat easier,
-use the ``requirements.txt`` file provided in my repo.
+use the ``requirements.txt`` file provided in my repo to install them.
 
 ```
 git clone https://github.com/justinsowhat/scikit-learn-nlp-tutorial.git

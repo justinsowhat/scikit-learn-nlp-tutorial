@@ -96,3 +96,7 @@ ENV/
 __MACOSX/
 .DS_Store
 /.ipynb_checkpoints/
+
+converter.py
+*.json
+yelp_academic_dataset_review.json
