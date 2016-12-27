@@ -40,6 +40,12 @@ After installing Anaconda, you can install scikit-learn as follows:
 conda install scikit-learn
 ```
 
+Then, we need to install TextBlob for the second tutorial:
+```
+pip install -U textblob
+python -m textblob.download_corpora
+```
+
 ##### b. If you are using your existing Python environment
 If you wish to use your existing Python environment instead of Anaconda, you may install
 all the dependencies needed in this tutorial using ``pip``. To make everyone's life somewhat easier,
@@ -49,6 +55,7 @@ use the ``requirements.txt`` file provided in my repo to install them.
 git clone https://github.com/justinsowhat/scikit-learn-nlp-tutorial.git
 cd scikit-learn-nlp-tutorial
 pip install -r requirements.txt
+python -m textblob.download_corpora
 ```
 
 
